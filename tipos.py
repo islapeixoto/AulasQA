@@ -1,0 +1,6 @@
+print(type (10))
+print (type ("Oi"))
+print (type (3.14))
+print (type (True))
+print (type (False)) 
+print (type ((1,2,3)))
